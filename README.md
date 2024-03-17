@@ -3,7 +3,7 @@ Orderly SDK is a complete library to interact with Orderly contracts and rest ap
 
 ## Typescript
 Library is written fully in Typescript, so no additional types installation is needed.
-
+ 
 ## Usage
 
 ### Available clients
